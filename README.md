@@ -1,6 +1,14 @@
-# Getting Started with Create React App
-
+# React exercise - Internet Programming Course
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Authors
+
+Student name - student email.
+
+## General Information
+
+### libraries used for this project:
+react-router, ...
 
 ## Available Scripts
 
